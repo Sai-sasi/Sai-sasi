@@ -24,7 +24,7 @@ My goal is to bridge **cellular pain mechanisms** and **human brain oscillation 
 - Supports labelled-line model of cold pain encoding in the dorsal horn
 - Data analysed in Clampfit, R Studio; code available in this repository
 
-🧬 **Cancer Cell Imaging **  
+🧬 **Cancer Cell Imaging**  
 CellProfiler and ImageJ/FIJI pipeline construction and cell phenotype analysis
 
 🔬 **Proteomics Internship — Allele Life Sciences Lab**  
