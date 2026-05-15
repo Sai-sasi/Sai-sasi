@@ -79,6 +79,7 @@ Protein quantification, Western blot image analysis, GLP-compliant data pipeline
 | Repository | Description | Status |
 |-----------|-------------|--------|
 | [Electrophysiological-recordings](https://github.com/Sai-sasi/Electrophysiological-recordings) | R analysis scripts and data from BBSRC-funded MSc dissertation — EPSC frequency analysis, stimulus-response plots, Calb-Cre vs Phox2a-Cre comparison | ✅ Active |
+| [Bioimaging-Colocalization-Analysis](https://github.com/Sai-sasi/Bioimaging-Colocalization-Analysis) | ImageJ/JACoP colocalization analysis — confocal Z-stack, University of Glasgow BIOL5261 Grade A5 | ✅ Complete |
 | EEG-Signal-Processing-Python | Python notebooks for EEG analysis — filtering, PSD, time-frequency, motor imagery classification | 🔄 In progress |
 | Neural-Population-Analysis | PCA and UMAP applied to Allen Brain Observatory neural population data | 🔜 Coming soon |
 
